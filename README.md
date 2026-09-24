@@ -56,5 +56,5 @@ To start my career in the IT industry and contribute to real-world projects whil
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/siva-a-22a87737b
-* 🌐 Github :
-* 📧 Email: 
+* 🌐 Github : https://github.com/sivaananthakumar32-hue
+* 📧 Email: sivaananthakumar32@gmail.com
